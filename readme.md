@@ -1,8 +1,9 @@
+## Estructura del proyecto
+
+```text
 recetas/
-│
 ├── index.html
 ├── recetas.css
-│
 ├── imagenes/
 │   ├── cocina.jpg
 │   ├── tortilla.jpg
@@ -10,8 +11,8 @@ recetas/
 │   ├── bizcocho.jpg
 │   ├── cebolla.jpg
 │   └── perfil.jpg
-│
 ├── recetas.html
 ├── aviso-legal.html
 ├── privacidad.html
 └── cookies.html
+```
